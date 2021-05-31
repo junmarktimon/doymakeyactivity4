@@ -1,0 +1,22 @@
+{
+  "name": "doymakeyactivity4",
+  "version": "1.0.0",
+  "description": "activity 4 sia102 docker container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junmarktimon/doymakeyactivity4.git"
+  },
+  "author": "doymakey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junmarktimon/doymakeyactivity4/issues"
+  },
+  "homepage": "https://github.com/junmarktimon/doymakeyactivity4#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
